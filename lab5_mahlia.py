@@ -88,6 +88,6 @@
 # print(count_hype(10, 5))
 
 
-def final_message():
-    print("Thanks for using VibeCheck!")
-final_message()
+# def final_message():
+#     print("Thanks for using VibeCheck!")
+# final_message()
